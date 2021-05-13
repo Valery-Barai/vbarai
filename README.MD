@@ -1,3 +1,6 @@
-Hello, Val
+#Hometask GIT
 
-Second line
+##Task 2
+![alt text](/Screens_VB/Task2.jpg)
+
+##Task 3
